@@ -19,6 +19,7 @@
   "scripts": {
     "test": "npx hardhat test && forge test",
     "prettier-test": "prettier --write test/",
+    "prettier-scripts": "prettier --write scripts/",
     "prettier-contracts": "prettier --write contracts/"
   },
   "devDependencies": {
