@@ -1,5 +1,5 @@
 {
-  "name": "hardhat-foundry-hardhat-awesome-cli-example",
+  "name": "hardhat-foundry-hardhat-awesome-cli-example-js",
   "version": "0.0.1",
   "description": "Hardhat & Foundry with Hardhat-Awesome-CLI example in JS",
   "repository": "https://github.com/marc-aurele-besner/hardhat-foundry-hardhat-awesome-cli-example-js.git",
@@ -14,7 +14,8 @@
     "hardhat-awesome-cli",
     "example",
     "test",
-    "smart-contracts"
+    "smart-contracts",
+    "javascript"
   ],
   "scripts": {
     "test": "npx hardhat test && forge test",
