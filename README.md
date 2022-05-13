@@ -1,15 +1,25 @@
-# Basic Sample Hardhat Project
+## Hardhat & Foundry with Hardhat-Awesome-CLI plugin in JS
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, a sample script that deploys that contract, and an example of a task implementation, which simply lists the available accounts.
+[Hardhat-Awesome-CLI](https://www.npmjs.com/package/hardhat-awesome-cli)
 
-Try running some of the following tasks:
+This project demonstrates a basic Hardhat with Foundry and Hardhat-Awesome-CLI plugin. Some Mock contracts, hardhat test, hardhat deployment scripts and Foundry test for these mocks contract as well as some Github Actions for CI.
+
+Try running some of the following command:
+
+## Hardhat-Awesome-CLI
 
 ```shell
-npx hardhat accounts
-npx hardhat compile
-npx hardhat clean
+npx hardhat cli
+```
+
+## Hardhat Test
+
+```shell
 npx hardhat test
-npx hardhat node
-node scripts/sample-script.js
-npx hardhat help
+```
+
+## Foundry test
+
+```shell
+forge test
 ```
