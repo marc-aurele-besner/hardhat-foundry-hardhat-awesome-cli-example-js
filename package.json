@@ -30,7 +30,7 @@
     "ethereum-waffle": "^3.0.0",
     "ethers": "^5.0.0",
     "hardhat": "^2.9.5",
-    "hardhat-awesome-cli": "^0.0.12",
+    "hardhat-awesome-cli": "^0.0.13",
     "prettier": "^2.6.2",
     "prettier-plugin-solidity": "^1.0.0-beta.19",
     "solidity-coverage": "^0.7.21"
