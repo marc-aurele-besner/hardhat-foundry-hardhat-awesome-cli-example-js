@@ -24,7 +24,7 @@
     "prettier-contracts": "prettier --write contracts/"
   },
   "devDependencies": {
-    "@nomicfoundation/hardhat-toolbox": "^2.0.1",
+    "@nomicfoundation/hardhat-toolbox": "^3.0.0",
     "ethers": "^5.7.2",
     "hardhat": "^2.12.7",
     "prettier": "^2.8.4",
